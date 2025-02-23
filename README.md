@@ -1,0 +1,1 @@
+This is a Simple .VBS Key spam file. This spams all your keys until you close it, or you restart your PC you can close it in the Task Manager if there occur any damages to your PC or other damages I'm not responsible you are using it on your own risk.
